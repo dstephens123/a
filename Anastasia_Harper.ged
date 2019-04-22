@@ -1,0 +1,1544 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ASCII
+1 SOUR MCCC
+2 VERS 1.0.13
+1 SUBM @U1@
+0 @U1@ SUBM
+1 NAME Anastasia /Harper/
+0 @I1@ INDI
+1 NAME Anastasia /DeMarco/
+2 GIVN Anastasia
+2 SURN DeMarco
+2 _MARNM Harper
+1 SEX F
+1 FAMS @F1@
+1 FAMS @F38@
+1 FAMS @F46@
+1 FAMS @F55@
+1 FAMC @F35@
+0 @I2@ INDI
+1 NAME Landon /Harper/
+2 GIVN Landon
+2 SURN Harper
+1 SEX M
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Jason /Harper/
+2 GIVN Jason
+2 SURN Harper
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F36@
+0 @I4@ INDI
+1 NAME Melonie /Harper/
+2 GIVN Melonie
+2 SURN Harper
+1 SEX F
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Kasey /Albright/
+2 GIVN Kasey
+2 SURN Albright
+1 SEX F
+1 FAMS @F3@
+1 FAMS @F49@
+1 FAMC @F2@
+0 @I6@ INDI
+1 NAME Jillian /Penrose/
+2 GIVN Jillian
+2 SURN Penrose
+2 _MARNM Albright
+1 SEX F
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Justin /Penrose/
+2 GIVN Justin
+2 SURN Penrose
+1 SEX M
+1 FAMS @F4@
+1 FAMC @F37@
+0 @I8@ INDI
+1 NAME Justine /Penrose/
+2 GIVN Justine
+2 SURN Penrose
+1 SEX F
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Leona /Penrose/
+2 GIVN Leona
+2 SURN Penrose
+1 SEX F
+1 FAMC @F4@
+0 @I11@ INDI
+1 NAME Corina /Penrose/
+2 GIVN Corina
+2 SURN Penrose
+1 SEX F
+1 FAMC @F4@
+0 @I12@ INDI
+1 NAME Leon /Penrose/
+2 GIVN Leon
+2 SURN Penrose
+1 SEX M
+1 FAMC @F4@
+0 @I13@ INDI
+1 NAME Alyssa /Penrose/
+2 GIVN Alyssa
+2 SURN Penrose
+1 SEX F
+1 FAMC @F4@
+0 @I14@ INDI
+1 NAME Jordan /Penrose/
+2 GIVN Jordan
+2 SURN Penrose
+1 SEX M
+1 DEAT
+1 FAMS @F38@
+1 FAMC @F4@
+0 @I15@ INDI
+1 NAME Travis /Penrose/
+2 GIVN Travis
+2 SURN Penrose
+1 SEX M
+1 FAMC @F4@
+0 @I16@ INDI
+1 NAME Kurtisce /Penrose/
+2 GIVN Kurtisce
+2 SURN Penrose
+1 SEX M
+1 FAMC @F4@
+0 @I17@ INDI
+1 NAME Briar /Penrose/
+2 GIVN Briar
+2 SURN Penrose
+1 SEX M
+1 FAMC @F4@
+0 @I18@ INDI
+1 NAME Tiera /Harper/
+2 GIVN Tiera
+2 SURN Harper
+2 _MARNM Penrose
+1 SEX F
+1 FAMC @F38@
+0 @I19@ INDI
+1 NAME Bruce /DeMarco/
+2 GIVN Bruce
+2 SURN DeMarco
+1 SEX M
+1 FAMS @F35@
+0 @I20@ INDI
+1 NAME André /DeMarco/
+2 GIVN André
+2 SURN DeMarco
+1 SEX M
+1 FAMS @F5@
+1 FAMC @F35@
+0 @I21@ INDI
+1 NAME Makenna /Bishop/
+2 GIVN Makenna
+2 SURN Bishop
+2 _MARNM DeMarco
+1 SEX F
+1 FAMS @F5@
+1 FAMC @F6@
+0 @I22@ INDI
+1 NAME Cedric /Bishop/
+2 GIVN Cedric
+2 SURN Bishop
+1 SEX M
+1 FAMS @F6@
+0 @I23@ INDI
+1 NAME Adrian /Bishop/
+2 GIVN Adrian
+2 SURN Bishop
+1 SEX F
+1 FAMS @F6@
+0 @I24@ INDI
+1 NAME Caiden /Bishop/
+2 GIVN Caiden
+2 SURN Bishop
+1 SEX M
+1 FAMS @F7@
+1 FAMC @F6@
+0 @I25@ INDI
+1 NAME Abbie /Bishop/
+2 GIVN Abbie
+2 SURN Bishop
+1 SEX F
+1 FAMS @F7@
+0 @I26@ INDI
+1 NAME Jonas /Bishop/
+2 GIVN Jonas
+2 SURN Bishop
+1 SEX M
+1 FAMC @F6@
+0 @I27@ INDI
+1 NAME Katherine /Bishop/
+2 GIVN Katherine
+2 SURN Bishop
+1 SEX F
+1 FAMC @F6@
+0 @I28@ INDI
+1 NAME Demario /Bishop/
+2 GIVN Demario
+2 SURN Bishop
+1 SEX M
+1 FAMS @F8@
+1 FAMC @F6@
+0 @I29@ INDI
+1 NAME Orpa /Bishop/
+2 GIVN Orpa
+2 SURN Bishop
+1 SEX F
+1 FAMS @F8@
+1 FAMC @F39@
+0 @I31@ INDI
+1 NAME Jo /Bishop/
+2 GIVN Jo
+2 SURN Bishop
+1 SEX F
+1 FAMC @F8@
+0 @I32@ INDI
+1 NAME Tucker /Bishop/
+2 GIVN Tucker
+2 SURN Bishop
+1 SEX M
+1 FAMC @F6@
+0 @I33@ INDI
+1 NAME Coty /Bishop/
+2 GIVN Coty
+2 SURN Bishop
+1 SEX M
+1 FAMS @F9@
+1 FAMC @F6@
+0 @I34@ INDI
+1 NAME Adrianna /Wenlock/
+2 GIVN Adrianna
+2 SURN Wenlock
+2 _MARNM Bishop
+1 SEX F
+1 FAMS @F9@
+1 FAMC @F40@
+0 @I36@ INDI
+1 NAME Silvianna /Vasquez/
+2 GIVN Silvianna
+2 SURN Vasquez
+2 _MARNM Wenlock
+1 SEX F
+1 FAMS @F10@
+1 FAMS @F40@
+1 FAMS @F57@
+1 FAMC @F41@
+0 @I37@ INDI
+1 NAME Desmond /Wenlock/
+2 GIVN Desmond
+2 SURN Wenlock
+1 SEX M
+1 FAMS @F10@
+1 FAMC @F42@
+0 @I40@ INDI
+1 NAME Otto /Wenlock/
+2 GIVN Otto
+2 SURN Wenlock
+1 SEX M
+1 FAMC @F10@
+0 @I42@ INDI
+1 NAME Anna /Vasquez/
+2 GIVN Anna
+2 SURN Vasquez
+1 SEX F
+1 DEAT
+1 FAMS @F41@
+1 FAMS @F43@
+0 @I43@ INDI
+1 NAME Elianna /Bounty/
+2 GIVN Elianna
+2 SURN Bounty
+1 SEX F
+1 FAMS @F11@
+1 FAMC @F43@
+0 @I44@ INDI
+1 NAME Brandt /Bounty/
+2 GIVN Brandt
+2 SURN Bounty
+1 SEX M
+1 FAMS @F11@
+1 FAMC @F39@
+0 @I45@ INDI
+1 NAME Tatianna /Rogers/
+2 GIVN Tatianna
+2 SURN Rogers
+1 SEX F
+1 FAMS @F44@
+1 FAMC @F41@
+0 @I46@ INDI
+1 NAME Ezequiel /Rogers/
+2 GIVN Ezequiel
+2 SURN Rogers
+1 SEX M
+1 FAMC @F44@
+0 @I47@ INDI
+1 NAME Hart /Rogers/
+2 GIVN Hart
+2 SURN Rogers
+1 SEX M
+1 DEAT
+1 FAMS @F44@
+1 FAMC @F45@
+0 @I48@ INDI
+1 NAME Ruby /Rogers/
+2 GIVN Ruby
+2 SURN Rogers
+1 SEX F
+1 DEAT
+1 FAMS @F45@
+0 @I49@ INDI
+1 NAME Sandrah /DeMarco/
+2 GIVN Sandrah
+2 SURN DeMarco
+1 SEX F
+1 DEAT
+1 FAMS @F35@
+1 FAMC @F45@
+0 @I50@ INDI
+1 NAME Maya /Grande/
+2 GIVN Maya
+2 SURN Grande
+2 _MARNM Penrose-Grande
+1 SEX F
+1 FAMC @F46@
+0 @I51@ INDI
+1 NAME Ryan /Grande/
+2 GIVN Ryan
+2 SURN Grande
+1 SEX M
+1 FAMS @F12@
+1 FAMS @F46@
+0 @I52@ INDI
+1 NAME Fiona /Grande/
+2 GIVN Fiona
+2 SURN Grande
+1 SEX F
+1 FAMS @F12@
+1 FAMC @F47@
+0 @I54@ INDI
+1 NAME Blaze /Harper/
+2 GIVN Blaze
+2 SURN Harper
+1 SEX M
+1 FAMC @F1@
+0 @I55@ INDI
+1 NAME Tracy /Harper/
+2 GIVN Tracy
+2 SURN Harper
+2 _MARNM Pizzazz
+1 SEX F
+1 FAMS @F13@
+1 FAMC @F2@
+0 @I56@ INDI
+1 NAME Pika /Pizzazz/
+2 GIVN Pika
+2 SURN Pizzazz
+1 SEX F
+1 FAMS @F13@
+1 FAMC @F48@
+0 @I58@ INDI
+1 NAME Kya /Pizzazz/
+2 GIVN Kya
+2 SURN Pizzazz
+2 _MARNM Tran
+1 SEX F
+1 FAMC @F13@
+0 @I60@ INDI
+1 NAME Ove /Albright/
+2 GIVN Ove
+2 SURN Albright
+1 SEX M
+1 FAMC @F49@
+0 @I61@ INDI
+1 NAME David /Albright/
+2 GIVN David
+2 SURN Albright
+1 SEX M
+1 DEAT
+1 FAMS @F49@
+1 FAMC @F14@
+0 @I62@ INDI
+1 NAME Caleb /Albright/
+2 GIVN Caleb
+2 SURN Albright
+1 SEX M
+1 FAMS @F14@
+0 @I63@ INDI
+1 NAME Kaylee /Albright/
+2 GIVN Kaylee
+2 SURN Albright
+1 SEX F
+1 FAMS @F14@
+0 @I64@ INDI
+1 NAME Madison /Albright/
+2 GIVN Madison
+2 SURN Albright
+1 SEX F
+1 FAMS @F15@
+1 FAMC @F14@
+0 @I65@ INDI
+1 NAME Cassandra /Goth/
+2 GIVN Cassandra
+2 SURN Goth
+2 _MARNM Albright
+1 SEX F
+1 FAMS @F15@
+1 FAMC @F50@
+0 @I66@ INDI
+1 NAME Mortimer /Goth/
+2 GIVN Mortimer
+2 SURN Goth
+1 SEX M
+1 DEAT
+1 FAMS @F50@
+0 @I67@ INDI
+1 NAME Malaysia /Goth/
+2 GIVN Malaysia
+2 SURN Goth
+1 SEX F
+1 FAMC @F50@
+0 @I68@ INDI
+1 NAME Bella /Bachelor/
+2 GIVN Bella
+2 SURN Bachelor
+2 _MARNM Goth
+1 SEX F
+1 FAMS @F16@
+1 FAMS @F50@
+1 FAMC @F51@
+0 @I69@ INDI
+1 NAME Skyla /Penrose/
+2 GIVN Skyla
+2 SURN Penrose
+2 _MARNM Goth
+1 SEX F
+1 FAMS @F16@
+1 FAMC @F52@
+0 @I71@ INDI
+1 NAME Ursula /Penrose/
+2 GIVN Ursula
+2 SURN Penrose
+1 SEX F
+1 FAMS @F52@
+0 @I72@ INDI
+1 NAME Donnell /Penrose/
+2 GIVN Donnell
+2 SURN Penrose
+1 SEX M
+1 FAMC @F52@
+0 @I73@ INDI
+1 NAME Bo /Penrose/
+2 GIVN Bo
+2 SURN Penrose
+1 SEX F
+1 FAMC @F52@
+0 @I74@ INDI
+1 NAME Jaxson /Penrose/
+2 GIVN Jaxson
+2 SURN Penrose
+1 SEX M
+1 FAMC @F52@
+0 @I75@ INDI
+1 NAME Ti-Ning /Penrose/
+2 GIVN Ti-Ning
+2 SURN Penrose
+1 SEX M
+1 FAMC @F52@
+0 @I76@ INDI
+1 NAME Isaak /Penrose/
+2 GIVN Isaak
+2 SURN Penrose
+1 SEX M
+1 FAMS @F17@
+1 FAMC @F52@
+0 @I77@ INDI
+1 NAME Angelina /DeMarco/
+2 GIVN Angelina
+2 SURN DeMarco
+2 _MARNM Penrose
+1 SEX F
+1 FAMS @F17@
+1 FAMC @F35@
+0 @I78@ INDI
+1 NAME Bruce /Penrose/
+2 GIVN Bruce
+2 SURN Penrose
+1 SEX M
+1 FAMC @F17@
+0 @I79@ INDI
+1 NAME Ophelia /Rogers/
+2 GIVN Ophelia
+2 SURN Rogers
+1 SEX F
+1 FAMS @F18@
+1 FAMC @F52@
+0 @I80@ INDI
+1 NAME Kasen /Rogers/
+2 GIVN Kasen
+2 SURN Rogers
+1 SEX M
+1 FAMS @F18@
+1 FAMC @F44@
+0 @I81@ INDI
+1 NAME Kylie /Rogers/
+2 GIVN Kylie
+2 SURN Rogers
+1 SEX F
+1 FAMC @F44@
+0 @I82@ INDI
+1 NAME Dana /Rogers/
+2 GIVN Dana
+2 SURN Rogers
+1 SEX M
+1 FAMC @F44@
+0 @I83@ INDI
+1 NAME Caden /Rogers/
+2 GIVN Caden
+2 SURN Rogers
+1 SEX M
+1 FAMC @F44@
+0 @I84@ INDI
+1 NAME Nova /Rogers/
+2 GIVN Nova
+2 SURN Rogers
+1 SEX M
+1 FAMC @F18@
+0 @I85@ INDI
+1 NAME Delilah /Goth/
+2 GIVN Delilah
+2 SURN Goth
+1 SEX F
+1 FAMC @F16@
+0 @I86@ INDI
+1 NAME Simis /Bachelor/
+2 GIVN Simis
+2 SURN Bachelor
+1 SEX M
+1 DEAT
+1 FAMS @F51@
+0 @I87@ INDI
+1 NAME Michael /Bachelor/
+2 GIVN Michael
+2 SURN Bachelor
+1 SEX M
+1 FAMS @F19@
+1 FAMC @F51@
+0 @I88@ INDI
+1 NAME Dina /Centralperk/
+2 GIVN Dina
+2 SURN Centralperk
+2 _MARNM Bachelor
+1 SEX F
+1 FAMS @F19@
+1 FAMS @F54@
+1 FAMC @F53@
+0 @I89@ INDI
+1 NAME Katrina /Centralperk/
+2 GIVN Katrina
+2 SURN Centralperk
+1 SEX F
+1 DEAT
+1 FAMS @F53@
+0 @I90@ INDI
+1 NAME Nina /O'Malley/
+2 GIVN Nina
+2 SURN O'Malley
+1 SEX F
+1 FAMS @F20@
+1 FAMC @F53@
+0 @I91@ INDI
+1 NAME George /O'Malley/
+2 GIVN George
+2 SURN O'Malley
+1 SEX M
+1 FAMS @F20@
+0 @I92@ INDI
+1 NAME Violet /O'Malley/
+2 GIVN Violet
+2 SURN O'Malley
+1 SEX F
+1 FAMC @F20@
+0 @I93@ INDI
+1 NAME Demi /O'Malley/
+2 GIVN Demi
+2 SURN O'Malley
+1 SEX F
+1 FAMC @F20@
+0 @I94@ INDI
+1 NAME Matteo /O'Malley/
+2 GIVN Matteo
+2 SURN O'Malley
+1 SEX M
+1 FAMC @F20@
+0 @I95@ INDI
+1 NAME Georgina /O'Malley/
+2 GIVN Georgina
+2 SURN O'Malley
+1 SEX F
+1 FAMC @F20@
+0 @I96@ INDI
+1 NAME Beatrice /McStrain/
+2 GIVN Beatrice
+2 SURN McStrain
+1 SEX F
+1 FAMC @F54@
+0 @I98@ INDI
+1 NAME Braylon /Bachelor/
+2 GIVN Braylon
+2 SURN Bachelor
+1 SEX M
+1 FAMC @F19@
+0 @I99@ INDI
+1 NAME Jocasta /Bachelor/
+2 GIVN Jocasta
+2 SURN Bachelor
+1 SEX F
+1 FAMS @F51@
+0 @I100@ INDI
+1 NAME Erica /Goth/
+2 GIVN Erica
+2 SURN Goth
+2 _MARNM Dumas
+1 SEX F
+1 FAMC @F16@
+0 @I101@ INDI
+1 NAME Damion /Goth/
+2 GIVN Damion
+2 SURN Goth
+1 SEX M
+1 FAMC @F16@
+0 @I102@ INDI
+1 NAME Allison /Goth/
+2 GIVN Allison
+2 SURN Goth
+1 SEX F
+1 FAMC @F50@
+0 @I103@ INDI
+1 NAME Aria /Goth/
+2 GIVN Aria
+2 SURN Goth
+1 SEX F
+1 FAMC @F50@
+0 @I104@ INDI
+1 NAME Alexander /Goth/
+2 GIVN Alexander
+2 SURN Goth
+1 SEX M
+1 FAMS @F21@
+1 FAMC @F50@
+0 @I105@ INDI
+1 NAME Cecelia /Goth/
+2 GIVN Cecelia
+2 SURN Goth
+1 SEX F
+1 FAMS @F21@
+0 @I106@ INDI
+1 NAME Maeve /Goth/
+2 GIVN Maeve
+2 SURN Goth
+1 SEX F
+1 FAMC @F21@
+0 @I107@ INDI
+1 NAME Dana /Goth/
+2 GIVN Dana
+2 SURN Goth
+1 SEX M
+1 FAMC @F50@
+0 @I108@ INDI
+1 NAME Chase /Goth/
+2 GIVN Chase
+2 SURN Goth
+1 SEX M
+1 FAMC @F16@
+0 @I109@ INDI
+1 NAME Devon /Goth/
+2 GIVN Devon
+2 SURN Goth
+1 SEX F
+1 FAMC @F16@
+0 @I110@ INDI
+1 NAME Cortez /Goth/
+2 GIVN Cortez
+2 SURN Goth
+1 SEX M
+1 FAMC @F50@
+0 @I111@ INDI
+1 NAME Dillan /Goth/
+2 GIVN Dillan
+2 SURN Goth
+1 SEX M
+1 FAMC @F16@
+0 @I112@ INDI
+1 NAME Ember /Goth/
+2 GIVN Ember
+2 SURN Goth
+1 SEX F
+1 FAMC @F21@
+0 @I113@ INDI
+1 NAME Ronan /Goth/
+2 GIVN Ronan
+2 SURN Goth
+1 SEX M
+1 FAMC @F21@
+0 @I114@ INDI
+1 NAME Trish /Goth/
+2 GIVN Trish
+2 SURN Goth
+1 SEX F
+1 FAMS @F22@
+1 FAMC @F21@
+0 @I115@ INDI
+1 NAME Wulf /Goth/
+2 GIVN Wulf
+2 SURN Goth
+1 SEX M
+1 FAMS @F22@
+0 @I116@ INDI
+1 NAME Zelda /Goth/
+2 GIVN Zelda
+2 SURN Goth
+1 SEX F
+1 FAMC @F22@
+0 @I117@ INDI
+1 NAME Bentley /Bachelor/
+2 GIVN Bentley
+2 SURN Bachelor
+1 SEX M
+1 FAMC @F19@
+0 @I118@ INDI
+1 NAME Roxana /McStrain/
+2 GIVN Roxana
+2 SURN McStrain
+1 SEX F
+1 FAMC @F54@
+0 @I119@ INDI
+1 NAME Kiersten /McStrain/
+2 GIVN Kiersten
+2 SURN McStrain
+1 SEX F
+1 FAMC @F54@
+0 @I120@ INDI
+1 NAME Melvin /McStrain/
+2 GIVN Melvin
+2 SURN McStrain
+1 SEX M
+1 FAMC @F54@
+0 @I121@ INDI
+1 NAME Jamin /Albright/
+2 GIVN Jamin
+2 SURN Albright
+1 SEX M
+1 FAMC @F14@
+0 @I122@ INDI
+1 NAME Jacob /Albright/
+2 GIVN Jacob
+2 SURN Albright
+1 SEX M
+1 FAMC @F14@
+0 @I123@ INDI
+1 NAME Morgan /Albright/
+2 GIVN Morgan
+2 SURN Albright
+1 SEX F
+1 FAMC @F14@
+0 @I124@ INDI
+1 NAME Mindy /Albright/
+2 GIVN Mindy
+2 SURN Albright
+1 SEX F
+1 FAMC @F49@
+0 @I125@ INDI
+1 NAME Astrid /Albright/
+2 GIVN Astrid
+2 SURN Albright
+1 SEX F
+1 FAMC @F49@
+0 @I126@ INDI
+1 NAME Justin /Albright/
+2 GIVN Justin
+2 SURN Albright
+1 SEX M
+1 FAMC @F14@
+0 @I127@ INDI
+1 NAME Zac /Albright/
+2 GIVN Zac
+2 SURN Albright
+1 SEX M
+1 FAMC @F14@
+0 @I128@ INDI
+1 NAME Markus /Albright/
+2 GIVN Markus
+2 SURN Albright
+1 SEX M
+1 FAMC @F14@
+0 @I129@ INDI
+1 NAME Raven /Harper/
+2 GIVN Raven
+2 SURN Harper
+1 SEX F
+1 FAMC @F2@
+0 @I130@ INDI
+1 NAME Glen /Harper/
+2 GIVN Glen
+2 SURN Harper
+1 SEX M
+1 FAMC @F2@
+0 @I131@ INDI
+1 NAME Kailyn /Harper/
+2 GIVN Kailyn
+2 SURN Harper
+1 SEX F
+1 FAMC @F2@
+0 @I132@ INDI
+1 NAME Taylor /DeMarco/
+2 GIVN Taylor
+2 SURN DeMarco
+1 SEX M
+1 FAMS @F23@
+1 FAMC @F55@
+0 @I133@ INDI
+1 NAME Atyson /DeMarco/
+2 GIVN Atyson
+2 SURN DeMarco
+1 SEX F
+1 FAMS @F23@
+0 @I134@ INDI
+1 NAME Ruby /DeMarco/
+2 GIVN Ruby
+2 SURN DeMarco
+1 SEX F
+1 FAMC @F23@
+0 @I135@ INDI
+1 NAME Arterus /Diamondback/
+2 GIVN Arterus
+2 SURN Diamondback
+1 SEX M
+1 FAMS @F24@
+1 FAMS @F55@
+1 FAMS @F56@
+0 @I136@ INDI
+1 NAME Kaylynn /Diamondback/
+2 GIVN Kaylynn
+2 SURN Diamondback
+1 SEX F
+1 FAMS @F24@
+0 @I137@ INDI
+1 NAME Ezekiel /Diamondback/
+2 GIVN Ezekiel
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F24@
+0 @I138@ INDI
+1 NAME Stacey /Diamondback/
+2 GIVN Stacey
+2 SURN Diamondback
+1 SEX F
+1 FAMC @F24@
+0 @I139@ INDI
+1 NAME Quevezanah /Diamondback/
+2 GIVN Quevezanah
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F24@
+0 @I140@ INDI
+1 NAME Salvatorina /Diamondback/
+2 GIVN Salvatorina
+2 SURN Diamondback
+2 _MARNM Hamm
+1 SEX F
+1 FAMS @F25@
+1 FAMC @F56@
+0 @I141@ INDI
+1 NAME Sage /Hamm/
+2 GIVN Sage
+2 SURN Hamm
+1 SEX M
+1 FAMS @F25@
+0 @I142@ INDI
+1 NAME Vada /Hamm/
+2 GIVN Vada
+2 SURN Hamm
+1 SEX F
+1 FAMC @F25@
+0 @I143@ INDI
+1 NAME Chrysanthemum /Diamondback/
+2 GIVN Chrysanthemum
+2 SURN Diamondback
+1 SEX F
+1 FAMS @F56@
+0 @I144@ INDI
+1 NAME Agamemnon /Diamondback/
+2 GIVN Agamemnon
+2 SURN Diamondback
+1 SEX M
+1 FAMS @F26@
+1 FAMC @F56@
+0 @I145@ INDI
+1 NAME Sydney /Diamondback/
+2 GIVN Sydney
+2 SURN Diamondback
+1 SEX F
+1 FAMS @F26@
+0 @I146@ INDI
+1 NAME Lauren /Diamondback/
+2 GIVN Lauren
+2 SURN Diamondback
+1 SEX F
+1 FAMC @F26@
+0 @I147@ INDI
+1 NAME Honesty /Diamondback/
+2 GIVN Honesty
+2 SURN Diamondback
+1 SEX F
+1 FAMC @F24@
+0 @I148@ INDI
+1 NAME Katarina /Diamondback/
+2 GIVN Katarina
+2 SURN Diamondback
+1 SEX F
+1 FAMC @F24@
+0 @I149@ INDI
+1 NAME Leonardo /Diamondback/
+2 GIVN Leonardo
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F24@
+0 @I150@ INDI
+1 NAME Keenan /Diamondback/
+2 GIVN Keenan
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F24@
+0 @I151@ INDI
+1 NAME Art /Diamondback/
+2 GIVN Art
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F26@
+0 @I152@ INDI
+1 NAME Idaho /Diamondback/
+2 GIVN Idaho
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F26@
+0 @I153@ INDI
+1 NAME Otis /Diamondback/
+2 GIVN Otis
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F26@
+0 @I154@ INDI
+1 NAME Truck /Diamondback/
+2 GIVN Truck
+2 SURN Diamondback
+1 SEX M
+1 FAMC @F26@
+0 @I155@ INDI
+1 NAME LaShanna /Turpin/
+2 GIVN LaShanna
+2 SURN Turpin
+1 SEX F
+1 FAMS @F27@
+1 FAMC @F43@
+0 @I156@ INDI
+1 NAME Mathias /Turpin/
+2 GIVN Mathias
+2 SURN Turpin
+1 SEX M
+1 FAMS @F27@
+0 @I157@ INDI
+1 NAME Shana /Turpin/
+2 GIVN Shana
+2 SURN Turpin
+1 SEX F
+1 FAMC @F27@
+0 @I158@ INDI
+1 NAME Adeline /Turpin/
+2 GIVN Adeline
+2 SURN Turpin
+1 SEX F
+1 FAMC @F27@
+0 @I159@ INDI
+1 NAME Mollie /Turpin/
+2 GIVN Mollie
+2 SURN Turpin
+1 SEX F
+1 FAMC @F27@
+0 @I160@ INDI
+1 NAME Jordyn /Turpin/
+2 GIVN Jordyn
+2 SURN Turpin
+1 SEX F
+1 FAMC @F27@
+0 @I161@ INDI
+1 NAME Shania /Turpin/
+2 GIVN Shania
+2 SURN Turpin
+1 SEX M
+1 FAMC @F27@
+0 @I162@ INDI
+1 NAME Abel /Bole/
+2 GIVN Abel
+2 SURN Bole
+1 SEX M
+1 FAMS @F28@
+1 FAMC @F57@
+0 @I163@ INDI
+1 NAME Alexa /Bole/
+2 GIVN Alexa
+2 SURN Bole
+1 SEX F
+1 FAMS @F28@
+0 @I164@ INDI
+1 NAME Trinity /Bole/
+2 GIVN Trinity
+2 SURN Bole
+1 SEX F
+1 FAMS @F29@
+1 FAMS @F57@
+0 @I165@ INDI
+1 NAME Faith /Bole/
+2 GIVN Faith
+2 SURN Bole
+1 SEX F
+1 FAMS @F29@
+1 FAMS @F59@
+0 @I166@ INDI
+1 NAME Shaquille /Norwood/
+2 GIVN Shaquille
+2 SURN Norwood
+1 SEX M
+1 FAMC @F29@
+0 @I167@ INDI
+1 NAME Martina /Wenlock/
+2 GIVN Martina
+2 SURN Wenlock
+2 _MARNM Asher
+1 SEX F
+1 FAMS @F30@
+1 FAMC @F57@
+0 @I168@ INDI
+1 NAME Freddie /Asher/
+2 GIVN Freddie
+2 SURN Asher
+1 SEX M
+1 FAMS @F30@
+0 @I169@ INDI
+1 NAME Milo /Bole/
+2 GIVN Milo
+2 SURN Bole
+1 SEX M
+1 FAMS @F31@
+1 FAMC @F57@
+0 @I170@ INDI
+1 NAME Kaydence /Whitbey/
+2 GIVN Kaydence
+2 SURN Whitbey
+2 _MARNM Bole
+1 SEX F
+1 FAMS @F31@
+1 FAMC @F58@
+0 @I171@ INDI
+1 NAME Shaniah /Whitbey/
+2 GIVN Shaniah
+2 SURN Whitbey
+1 SEX F
+1 FAMS @F58@
+0 @I172@ INDI
+1 NAME Andi /Bole/
+2 GIVN Andi
+2 SURN Bole
+1 SEX F
+1 FAMC @F31@
+0 @I173@ INDI
+1 NAME Norma /Wenlock/
+2 GIVN Norma
+2 SURN Wenlock
+2 _MARNM Foster
+1 SEX F
+1 FAMS @F32@
+1 FAMC @F57@
+0 @I174@ INDI
+1 NAME Noah /Foster/
+2 GIVN Noah
+2 SURN Foster
+1 SEX M
+1 FAMS @F32@
+0 @I175@ INDI
+1 NAME Dustin /Foster/
+2 GIVN Dustin
+2 SURN Foster
+1 SEX M
+1 FAMC @F32@
+0 @I176@ INDI
+1 NAME Kaiden /Wenlock/
+2 GIVN Kaiden
+2 SURN Wenlock
+1 SEX M
+1 FAMC @F10@
+0 @I177@ INDI
+1 NAME Alanna /Wenlock/
+2 GIVN Alanna
+2 SURN Wenlock
+1 SEX F
+1 FAMC @F10@
+0 @I178@ INDI
+1 NAME Arianna /Thornman/
+2 GIVN Arianna
+2 SURN Thornman
+1 SEX F
+1 FAMS @F33@
+1 FAMC @F40@
+0 @I179@ INDI
+1 NAME Sidney /Thornman/
+2 GIVN Sidney
+2 SURN Thornman
+1 SEX M
+1 FAMS @F33@
+0 @I180@ INDI
+1 NAME Nathan /Thornman/
+2 GIVN Nathan
+2 SURN Thornman
+1 SEX M
+1 FAMC @F33@
+0 @I181@ INDI
+1 NAME Roy /Thornman/
+2 GIVN Roy
+2 SURN Thornman
+1 SEX M
+1 FAMC @F33@
+0 @I182@ INDI
+1 NAME Mateo /Thornman/
+2 GIVN Mateo
+2 SURN Thornman
+1 SEX M
+1 FAMC @F33@
+0 @I183@ INDI
+1 NAME Micheal /Bole/
+2 GIVN Micheal
+2 SURN Bole
+1 SEX M
+1 FAMS @F34@
+1 FAMC @F57@
+0 @I184@ INDI
+1 NAME Audrey /Bole/
+2 GIVN Audrey
+2 SURN Bole
+1 SEX F
+1 FAMS @F34@
+0 @I185@ INDI
+1 NAME Tatianna /Bole/
+2 GIVN Tatianna
+2 SURN Bole
+2 _MARNM Harding
+1 SEX F
+1 FAMC @F29@
+0 @I186@ INDI
+1 NAME Angelika /Clearwater/
+2 GIVN Angelika
+2 SURN Clearwater
+1 SEX F
+1 FAMC @F59@
+0 @I187@ INDI
+1 NAME Colin /Foster/
+2 GIVN Colin
+2 SURN Foster
+1 SEX M
+1 FAMC @F32@
+0 @I188@ INDI
+1 NAME Riaan /Foster/
+2 GIVN Riaan
+2 SURN Foster
+1 SEX M
+1 FAMC @F32@
+0 @I189@ INDI
+1 NAME Tatiana /Foster/
+2 GIVN Tatiana
+2 SURN Foster
+1 SEX F
+1 FAMC @F32@
+0 @I190@ INDI
+1 NAME Dafne /Foster/
+2 GIVN Dafne
+2 SURN Foster
+1 SEX F
+1 FAMC @F32@
+0 @I191@ INDI
+1 NAME Rory /Bishop/
+2 GIVN Rory
+2 SURN Bishop
+1 SEX M
+1 FAMC @F6@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I1@
+1 CHIL @I54@
+1 MARR
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I2@
+1 CHIL @I5@
+1 CHIL @I55@
+1 CHIL @I129@
+1 CHIL @I130@
+1 CHIL @I131@
+1 MARR
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 MARR
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I6@
+1 CHIL @I9@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I17@
+1 MARR
+0 @F5@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 MARR
+0 @F6@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I21@
+1 CHIL @I24@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I191@
+1 MARR
+0 @F7@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 MARR
+0 @F8@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I31@
+1 MARR
+0 @F9@ FAM
+1 HUSB @I33@
+1 WIFE @I34@
+1 MARR
+0 @F10@ FAM
+1 HUSB @I37@
+1 WIFE @I36@
+1 CHIL @I40@
+1 CHIL @I176@
+1 CHIL @I177@
+1 MARR
+0 @F11@ FAM
+1 HUSB @I44@
+1 WIFE @I43@
+1 MARR
+0 @F12@ FAM
+1 HUSB @I51@
+1 WIFE @I52@
+1 MARR
+0 @F13@ FAM
+1 HUSB @I56@
+1 WIFE @I55@
+1 CHIL @I58@
+1 MARR
+0 @F14@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I61@
+1 CHIL @I64@
+1 CHIL @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I128@
+1 MARR
+0 @F15@ FAM
+1 HUSB @I65@
+1 WIFE @I64@
+1 MARR
+0 @F16@ FAM
+1 HUSB @I69@
+1 WIFE @I68@
+1 CHIL @I85@
+1 CHIL @I100@
+1 CHIL @I101@
+1 CHIL @I108@
+1 CHIL @I109@
+1 CHIL @I111@
+1 MARR
+0 @F17@ FAM
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I78@
+1 MARR
+0 @F18@ FAM
+1 HUSB @I80@
+1 WIFE @I79@
+1 CHIL @I84@
+1 MARR
+0 @F19@ FAM
+1 HUSB @I87@
+1 WIFE @I88@
+1 CHIL @I98@
+1 CHIL @I117@
+1 MARR
+0 @F20@ FAM
+1 HUSB @I91@
+1 WIFE @I90@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+1 CHIL @I95@
+1 MARR
+0 @F21@ FAM
+1 HUSB @I104@
+1 WIFE @I105@
+1 CHIL @I106@
+1 CHIL @I112@
+1 CHIL @I113@
+1 CHIL @I114@
+1 MARR
+0 @F22@ FAM
+1 HUSB @I115@
+1 WIFE @I114@
+1 CHIL @I116@
+1 MARR
+0 @F23@ FAM
+1 HUSB @I132@
+1 WIFE @I133@
+1 CHIL @I134@
+1 MARR
+0 @F24@ FAM
+1 HUSB @I135@
+1 WIFE @I136@
+1 CHIL @I137@
+1 CHIL @I138@
+1 CHIL @I139@
+1 CHIL @I147@
+1 CHIL @I148@
+1 CHIL @I149@
+1 CHIL @I150@
+1 MARR
+0 @F25@ FAM
+1 HUSB @I141@
+1 WIFE @I140@
+1 CHIL @I142@
+1 MARR
+0 @F26@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I146@
+1 CHIL @I151@
+1 CHIL @I152@
+1 CHIL @I153@
+1 CHIL @I154@
+1 MARR
+0 @F27@ FAM
+1 HUSB @I156@
+1 WIFE @I155@
+1 CHIL @I157@
+1 CHIL @I158@
+1 CHIL @I159@
+1 CHIL @I160@
+1 CHIL @I161@
+1 MARR
+0 @F28@ FAM
+1 HUSB @I162@
+1 WIFE @I163@
+1 MARR
+0 @F29@ FAM
+1 HUSB @I165@
+1 WIFE @I164@
+1 CHIL @I166@
+1 CHIL @I185@
+1 MARR
+0 @F30@ FAM
+1 HUSB @I168@
+1 WIFE @I167@
+1 MARR
+0 @F31@ FAM
+1 HUSB @I169@
+1 WIFE @I170@
+1 CHIL @I172@
+1 MARR
+0 @F32@ FAM
+1 HUSB @I174@
+1 WIFE @I173@
+1 CHIL @I175@
+1 CHIL @I187@
+1 CHIL @I188@
+1 CHIL @I189@
+1 CHIL @I190@
+1 MARR
+0 @F33@ FAM
+1 HUSB @I179@
+1 WIFE @I178@
+1 CHIL @I180@
+1 CHIL @I181@
+1 CHIL @I182@
+1 MARR
+0 @F34@ FAM
+1 HUSB @I183@
+1 WIFE @I184@
+1 MARR
+0 @F35@ FAM
+1 HUSB @I19@
+1 WIFE @I49@
+1 CHIL @I1@
+1 CHIL @I20@
+1 CHIL @I77@
+1 DIV
+0 @F36@ FAM
+1 CHIL @I3@
+1 DIV
+0 @F37@ FAM
+1 CHIL @I7@
+1 DIV
+0 @F38@ FAM
+1 HUSB @I14@
+1 WIFE @I1@
+1 CHIL @I18@
+1 DIV
+0 @F39@ FAM
+1 CHIL @I29@
+1 CHIL @I44@
+1 DIV
+0 @F40@ FAM
+1 WIFE @I36@
+1 CHIL @I34@
+1 CHIL @I178@
+1 DIV
+0 @F41@ FAM
+1 WIFE @I42@
+1 CHIL @I36@
+1 CHIL @I45@
+1 DIV
+0 @F42@ FAM
+1 CHIL @I37@
+1 DIV
+0 @F43@ FAM
+1 WIFE @I42@
+1 CHIL @I43@
+1 CHIL @I155@
+1 DIV
+0 @F44@ FAM
+1 HUSB @I47@
+1 WIFE @I45@
+1 CHIL @I46@
+1 CHIL @I80@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I83@
+1 DIV
+0 @F45@ FAM
+1 WIFE @I48@
+1 CHIL @I47@
+1 CHIL @I49@
+1 DIV
+0 @F46@ FAM
+1 HUSB @I51@
+1 WIFE @I1@
+1 CHIL @I50@
+1 DIV
+0 @F47@ FAM
+1 CHIL @I52@
+1 DIV
+0 @F48@ FAM
+1 CHIL @I56@
+1 DIV
+0 @F49@ FAM
+1 HUSB @I61@
+1 WIFE @I5@
+1 CHIL @I60@
+1 CHIL @I124@
+1 CHIL @I125@
+1 DIV
+0 @F50@ FAM
+1 HUSB @I66@
+1 WIFE @I68@
+1 CHIL @I65@
+1 CHIL @I67@
+1 CHIL @I102@
+1 CHIL @I103@
+1 CHIL @I104@
+1 CHIL @I107@
+1 CHIL @I110@
+1 DIV
+0 @F51@ FAM
+1 HUSB @I86@
+1 WIFE @I99@
+1 CHIL @I68@
+1 CHIL @I87@
+1 DIV
+0 @F52@ FAM
+1 WIFE @I71@
+1 CHIL @I69@
+1 CHIL @I72@
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+1 CHIL @I76@
+1 CHIL @I79@
+1 DIV
+0 @F53@ FAM
+1 WIFE @I89@
+1 CHIL @I88@
+1 CHIL @I90@
+1 DIV
+0 @F54@ FAM
+1 WIFE @I88@
+1 CHIL @I96@
+1 CHIL @I118@
+1 CHIL @I119@
+1 CHIL @I120@
+1 DIV
+0 @F55@ FAM
+1 HUSB @I135@
+1 WIFE @I1@
+1 CHIL @I132@
+1 DIV
+0 @F56@ FAM
+1 HUSB @I135@
+1 WIFE @I143@
+1 CHIL @I140@
+1 CHIL @I144@
+1 DIV
+0 @F57@ FAM
+1 HUSB @I164@
+1 WIFE @I36@
+1 CHIL @I162@
+1 CHIL @I167@
+1 CHIL @I169@
+1 CHIL @I173@
+1 CHIL @I183@
+1 DIV
+0 @F58@ FAM
+1 WIFE @I171@
+1 CHIL @I170@
+1 DIV
+0 @F59@ FAM
+1 WIFE @I165@
+1 CHIL @I186@
+1 DIV
+0 TRLR
